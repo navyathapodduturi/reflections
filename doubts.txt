@@ -1,0 +1,35 @@
+when to use accessmodifier name before a class...??? depends on how we will access the class  
+
+if we have many subclasses in pgrm, how to access the members of oneclass to another class..???
+
+
+method name and class name should be same???... answer == then it will be constuctor..
+
+
+if not how will we cal the method of one class to another class..??    ==  referencename.methodname
+
+Multiple markers at this line
+	- The method println(boolean) in the type PrintStream is not applicable for the 
+	 arguments (void)
+	- Syntax error on token "s", delete this token
+	- The method summeth() is undefined for the type String...............error
+
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The method println(boolean) in the type PrintStream is not applicable for the arguments (void)
+
+	at mixofmethandclassum.main(mixofmethandclassum.java:7)
+
+if println is a boolean type then how can we print the results of other datatypes.
+
+...> if the class is public and all the methods in the class should be public, it shouldnot be contriductory....
+
+
+
+
+
+
+
+
+
+
+
